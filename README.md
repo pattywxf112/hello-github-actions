@@ -1,7 +1,6 @@
 <header>
 
 # Hello GitHub Actions
-This is teh test-workflow README.md
 _Create and run a GitHub Actions workflow._
 
 </header>
